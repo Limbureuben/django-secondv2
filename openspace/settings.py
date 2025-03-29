@@ -225,6 +225,7 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 DATA_UPLOAD_MAX_MEMORY_SIZE = 52428800
 
+FERNET_KEY="1r5qIiRHx6Jwjl1wXDxFIppfQbMCGhlW1ScTc7tmSYs="
 
 # my API key for sending an sms
 # atsk_ea83bd5ab23b2e68e1721ec3fd1ec4b491b52ea800a3a94ed0364e367b8d6e77aabd0916
