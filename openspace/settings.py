@@ -216,7 +216,8 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'limbureubenn@gmail.com'
 EMAIL_HOST_PASSWORD = 'bqxg asvo ziey eknt'
 DEFAULT_FROM_EMAIL = 'limbureubenn@gmail.com'
-
+FRONTEND_URL = 'http://localhost:4200'
+BACKEND_URL = 'http://127.0.0.1:8000'
 
 
 MEDIA_URL = '/media/'
