@@ -152,13 +152,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 #     ],
 # }
 
-GRAPHENE = {
-    'SCHEMA': 'myapp.schema.schema',
-    'GRAPHIQL': True,
-    'MIDDLEWARE': [
-        'graphql_jwt.middleware.JSONWebTokenMiddleware',
-    ],
-}
 
 
 
